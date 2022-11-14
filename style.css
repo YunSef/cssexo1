@@ -1,0 +1,35 @@
+*
+{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ margin: 0;
+ 
+
+}
+
+nav{
+    background-color: darkgray;
+    
+ordredpadding
+}
+
+
+nav li
+    {   display: inline-block;
+        padding: 1rem;
+
+    }
+
+    nav li:nth-of-type(even){
+        background-color: darkslategrey;
+        padding: 2rem 1rem 1rem 1rem;
+        
+    }
+    nav li:first-child{
+        font-size: 30px;
+        
+
+    }
+
+    .carousel{
+        height: 200px;
+
+    }
